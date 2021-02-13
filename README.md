@@ -3,20 +3,17 @@ This is a simple python script with which one can send a text message to any pho
 
 # Installation
 1. Open your terminal and copy paste the command given below
-```git clone https://github.com/hash30/python-script-to-send-message.git
-```
+```git clone https://github.com/hash30/python-script-to-send-message.git```
+
 2. go to main folder
-```cd python-script-to-send-message
-```
+```cd python-script-to-send-message```
 
 3. Make main py file excecutable
-```chmod +x SmsVEPERS.py
-```
+```chmod +x SmsVEPERS.py```
 
 # Usage
 Run the file
-```./SmsVEPERS.py
-```
+```./SmsVEPERS.py```
 
 That's it! Enjoy :)
 
