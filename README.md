@@ -4,7 +4,7 @@ This is a simple python script with which one can send a text message to any pho
 # Installation
 1. Open your terminal and copy paste the command given below
 
-```git clone https://github.com/hash30/python-script-to-send-message.git```
+```git clone https://github.com/hash30/SendSpoofmessage.git```
 
 2. go to main folder
 
