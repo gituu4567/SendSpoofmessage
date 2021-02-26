@@ -8,7 +8,7 @@ This is a simple python script with which one can send a text message to any pho
 
 2. go to main folder
 
-```cd python-script-to-send-message```
+```cd SendSpoofmessage```
 
 3. Make main py file excecutable
 
